@@ -1,0 +1,23 @@
+{
+  "name": "otp",
+  "version": "1.0.0",
+  "description": "otp system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhupi98/SendGridMailService.git"
+  },
+  "author": "bhupender",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhupi98/SendGridMailService/issues"
+  },
+  "homepage": "https://github.com/bhupi98/SendGridMailService#readme",
+  "dependencies": {
+    "@sendgrid/mail": "^7.6.0",
+    "express": "^4.17.1"
+  }
+}
